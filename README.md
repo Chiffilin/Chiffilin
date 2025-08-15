@@ -18,7 +18,7 @@
 name: Chiffilin
 role: Backend Developer (Python, Django, FastAPI)
 focus: API development, automation scripts, bots
-languages: Russian (native), Ukrainian (native), English (B1)
+languages: Ukrainian (native), russian (native), English (B1)
 goal: Start earning via freelance, grow to $1000+/month
 ```
 
