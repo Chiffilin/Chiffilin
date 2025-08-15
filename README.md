@@ -5,10 +5,11 @@
 <h3 align="center">Backend Developer | Python • Django • FastAPI</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3.13.х-blue?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-brightgreen?logo=fastapi" alt="FastAPI">
   <img src="https://img.shields.io/badge/Django-green?logo=django" alt="Django">
   <img src="https://img.shields.io/badge/SQLite-lightgrey?logo=sqlite" alt="SQLite">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 ---
